@@ -1,0 +1,11 @@
+C:\Users\김준성\source\repos\LoginForm_NoDB\LoginForm_NoDB\bin\Debug\LoginForm_NoDB.exe.config
+C:\Users\김준성\source\repos\LoginForm_NoDB\LoginForm_NoDB\bin\Debug\LoginForm_NoDB.exe
+C:\Users\김준성\source\repos\LoginForm_NoDB\LoginForm_NoDB\bin\Debug\LoginForm_NoDB.pdb
+C:\Users\김준성\source\repos\LoginForm_NoDB\LoginForm_NoDB\obj\Debug\LoginForm_NoDB.csproj.AssemblyReference.cache
+C:\Users\김준성\source\repos\LoginForm_NoDB\LoginForm_NoDB\obj\Debug\LoginForm_NoDB.Form1.resources
+C:\Users\김준성\source\repos\LoginForm_NoDB\LoginForm_NoDB\obj\Debug\LoginForm_NoDB.Form2.resources
+C:\Users\김준성\source\repos\LoginForm_NoDB\LoginForm_NoDB\obj\Debug\LoginForm_NoDB.Properties.Resources.resources
+C:\Users\김준성\source\repos\LoginForm_NoDB\LoginForm_NoDB\obj\Debug\LoginForm_NoDB.csproj.GenerateResource.cache
+C:\Users\김준성\source\repos\LoginForm_NoDB\LoginForm_NoDB\obj\Debug\LoginForm_NoDB.csproj.CoreCompileInputs.cache
+C:\Users\김준성\source\repos\LoginForm_NoDB\LoginForm_NoDB\obj\Debug\LoginForm_NoDB.exe
+C:\Users\김준성\source\repos\LoginForm_NoDB\LoginForm_NoDB\obj\Debug\LoginForm_NoDB.pdb
